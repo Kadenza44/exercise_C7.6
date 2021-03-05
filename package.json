@@ -1,0 +1,24 @@
+{
+  "name": "exercise_c7",
+  "version": "1.0.0",
+  "description": "Skill Factory exercise c7 test JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "babel-node": "babel-node"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "c7"
+  ],
+  "author": "Ilia Kadenza <iliassin@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/node": "^7.13.0",
+    "@babel/preset-env": "^7.13.9",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
